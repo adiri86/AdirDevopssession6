@@ -1,6 +1,8 @@
 #selenium - webautomation
 
-import time
+#import time
+
+
 # from selenium import webdriver
 # driver = webdriver.Chrome(executable_path='C:/seleniumwebdriver/chromedriver.exe')
 # # driver.implicitly_wait(10) #will give a chance up to 10 secondes for the web page to load

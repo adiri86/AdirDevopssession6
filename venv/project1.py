@@ -17,7 +17,7 @@ drop_down[0].click()
 price_points = driver.find_elements_by_class_name("active-result")  #selecting suitable price from drop down
 price_points[1].click()
 
-
+#continue
 drop_down2 = driver.find_elements_by_class_name("chosen-single")  #assigning all availabe dropdowns into variable
 drop_down2[1].click()
 price_points = driver.find_elements_by_class_name("active-result")  #selecting area from drop down
