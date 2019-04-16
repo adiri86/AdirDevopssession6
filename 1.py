@@ -1,7 +1,2 @@
 print(5)
-
-
-newline
-
-
-י
+print(7)
