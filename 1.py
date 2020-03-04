@@ -1,4 +1,3 @@
 print(5)
-
-
-newline
+print(7)
+print(8)
